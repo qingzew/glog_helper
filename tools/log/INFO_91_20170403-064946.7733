@@ -1,5 +1,0 @@
-Log file created at: 2017/04/03 06:49:46
-Running on machine: 92b89af3c705
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0403 06:49:46.822116  7733 main.cpp:22] INFO
-E0403 06:49:46.829895  7733 main.cpp:23] ERROR
